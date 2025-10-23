@@ -24,26 +24,8 @@ Bigram/trigram proximity ranking
 ✅ Embedding-based document ranking
 
 **🧩 Folder Structure**
-hybrid-search/
-├── README.md
-├── docs/
-│   ├── 0.txt
-│   └── 1.txt
-| ___embedding.py
-├── embeddings.txt
-├── include/
-│   ├── Indexer.h
-│   ├── Trie.h
-│   ├── Embeddings.h
-│   ├── SearchEngine.h
-│   └── utils.h
-└── src/
-    ├── Indexer.cpp
-    ├── Trie.cpp
-    ├── Embeddings.cpp
-    ├── SearchEngine.cpp
-    ├── utils.cpp
-    └── main.cpp
+<img width="554" height="501" alt="image" src="https://github.com/user-attachments/assets/4a2276c2-5a20-4fa2-9abd-2e48e5db80d8" />
+
 
 **Add Your Data**
 Put .txt documents inside the docs/ folder
