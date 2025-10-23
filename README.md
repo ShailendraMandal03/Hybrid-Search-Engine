@@ -31,7 +31,8 @@ Bigram/trigram proximity ranking
 Put .txt documents inside the docs/ folder
 
 **How to Use**
-Run the program and try:  g++ -std=c++17 -Iinclude src/main.cpp src/Indexer.cpp src/Trie.cpp src/Embeddings.cpp src/SearchEngine.cpp src/utils.cpp -o search
+Run the program and try:  
+                        :g++ -std=c++17 -Iinclude src/main.cpp src/Indexer.cpp src/Trie.cpp src/Embeddings.cpp src/SearchEngine.cpp src/utils.cpp -o search
 
                         : ./search
 **Dependencies**
